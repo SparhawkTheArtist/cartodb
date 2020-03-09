@@ -9,6 +9,7 @@ Development
 
 ### Bug fixes / enhancements
 - Fix wording for feedback
+- Set latest node 10.19 as default and only for building, removing 6.9.2 ([#15530](https://github.com/CartoDB/cartodb/issues/15530))
 
 4.36.0 (2020-03-09)
 -------------------

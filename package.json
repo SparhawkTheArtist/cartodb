@@ -198,8 +198,8 @@
     "moment-v3": "global:moment"
   },
   "engine": {
-    "node": "^10.15.1",
-    "npm": "^6.4.1"
+    "node": "^10.19.0",
+    "npm": "^6.13.4"
   },
   "scripts": {
     "start": "npm run carto-node && npm run build:static && npm run dev",
